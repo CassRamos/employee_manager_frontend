@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-This repository is a front-end file of movies application<br/>
+This repository is a front-end file of employee_manager application<br/>
 </p>
 
 <p align="center">
